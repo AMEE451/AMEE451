@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm looking for help with web development.<br>I'm currently learning Full Stack Development.<br> 
 
 
 ## 🌐 Socials:
